@@ -1,0 +1,5 @@
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "My New Hugo Site"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
