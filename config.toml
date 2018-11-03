@@ -1,5 +1,4 @@
-baseurl = "/"
-languageCode = "en-us"
+baseurl = "https://jairojair.com"
 languageLang = "en"
-title = "My New Hugo Site"
+title = "Jairo Jair"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]

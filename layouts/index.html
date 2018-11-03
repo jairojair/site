@@ -1,4 +1,24 @@
+<!DOCTYPE html>
+<html>
 
-{{ partial "head/style.html" . }}
+{{ partial "head.html" . }}
 
-<h1>Hello</h1>
+<body>
+
+  {{ partial "logo" . }}
+  {{ partial "menu" . }}
+
+  <main>
+
+    {{ partial "home" . }}
+
+  </main>
+
+  <footer>
+
+    {{ partial "footer" . }}
+
+  </footer>
+
+</body>
+</html>

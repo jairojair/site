@@ -1,3 +1,39 @@
-body {
-	background: green;
+body {}
+footer {}
+
+.logo {
+    display: block;
+    margin: 0 auto;
 }
+
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: white;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: white;
+    background-color: #5ecc62;
+}
+
