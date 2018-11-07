@@ -88,4 +88,8 @@ nav li a:hover {
       display: block;
       margin: 0 5% 0 5%;
   }
+
+  nav {
+    font-size: 1em;
+  }
 }
