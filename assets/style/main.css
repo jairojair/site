@@ -53,8 +53,7 @@ nav li {
 nav li a {
     display: block;
     color: black;
-    text-align: center;
-    padding: 14px 16px;
+    padding: 20px;
     text-decoration: none;
 }
 
@@ -81,8 +80,6 @@ nav li a:hover {
   width: 60px;
 }
 
-
-
 @media only screen and (max-width: 600px) {
   main {
       display: block;
@@ -90,6 +87,10 @@ nav li a:hover {
   }
 
   nav {
-    font-size: 1em;
+    font-size: 0.9em;
+  }
+
+  nav li a {
+      padding: 10px;
   }
 }
