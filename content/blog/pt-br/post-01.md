@@ -12,47 +12,50 @@ Porém o primeiro post será uma mistura de código e inspiração.
 
 {{< highlight Python >}}
 
-  print('Agora é melhor que nunca')
+print('Agora é melhor que nunca')
 
 {{< / highlight >}}
 
 
 {{< highlight Go >}}
 
-  package main
+package main
 
-  import "fmt"
+import "fmt"
 
-  func main() {
-    fmt.Println("Contudo, em alguns momentos desempenho
-    é importante")
-  }
+func main() {
+  fmt.Println("Contudo, em alguns momentos
+  desempenho é importante")
+}
 
 {{< / highlight >}}
 
 
 {{< highlight JavaScript >}}
-  console.log("Comece pelo básico")
+console.log("Comece pelo básico")
 {{< / highlight >}}
 
 {{< highlight html >}}
-  <html>
-  <html>
-  <head>
-    <title>Entenda como as coisas funcionam</title>
-  </head>
-  <body>
-    <h1>E crie algo do zero!</h1>
-  </body>
-  </html>
+<html>
+<html>
+<head>
+  <title>
+    Entenda como as coisas funcionam
+  </title>
+</head>
+<body>
+  <h1>E crie algo do zero!</h1>
+</body>
+</html>
 {{< / highlight >}}
 
 {{< highlight JavaScript >}}
-  class New extends React.Component {
-    render() {
-      return <h1>Mas não tenha medo do novo</h1>;
-    }
+
+class New extends React.Component {
+  render() {
+    return <h1>Mas não tenha medo do novo</h1>;
   }
+}
 
 {{< / highlight >}}
 
