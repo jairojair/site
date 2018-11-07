@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+{{ partial "head.html" . }}
+
+<body>
+  <header>
+
+    <!-- {{ partial "logo" . }} -->
+    {{ partial "menu" . }}
+
+  </header>
+  <main>
+
+    <ul>
+      {{ range .Paginator.Pages }} <li><a href="{{ .URL }}"><h3> # {{ .Title }}</h3></a> </li>{{end}}
+    </ul>
+
+  </main>
+</body>
+</html>

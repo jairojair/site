@@ -4,13 +4,21 @@ body {
   font-weight: lighter;
 }
 
+a {
+  text-decoration: none;
+}
+
+ul {
+
+  list-style-type: none;
+}
+
 h3 {
   font-size: 2em;
   color: #5ecc62;
 }
 
 p {
-
   font-size: 1.2em;
   line-height: 1.4em;
 }
@@ -19,7 +27,7 @@ header {}
 
 main {
     display: block;
-    margin: 0 4em 0 4em;
+    margin: 0 20% 0 20%;
 }
 
 

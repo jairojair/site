@@ -5,7 +5,6 @@ title = "Jairo Jair"
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 canonifyURLs = true
-enableRobotsTXT = true
 
 [params]
 
