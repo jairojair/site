@@ -1,0 +1,59 @@
+body {
+  font-family: Roboto, sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1.3px;
+}
+
+main {
+  display: block;
+  margin: 0 20% 0 20%;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  overflow: hidden;
+  background-color: white;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  color: white;
+  background-color: #5ecc62;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h3 {
+  font-size: 2em;
+  color: #5ecc62;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.5em;
+}

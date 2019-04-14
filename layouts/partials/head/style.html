@@ -1,5 +1,11 @@
-{{ $style := resources.Get "style/main.css" | resources.Minify | resources.Fingerprint}}
 
+{{ $desktop := resources.Get "style/desktop.css" }}
+{{ $main := resources.Get "style/main.css" }}
+{{ $mobile := resources.Get "style/mobile.css" }}
+
+{{ $style := slice $desktop $main $mobile | resources.Concat "style/bundle.css" | resources.Minify | resources.Fingerprint}}
 
  <link rel="preload" href="{{ $style.Permalink }}" as="style">
 <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:200" rel="stylesheet">
