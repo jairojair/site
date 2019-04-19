@@ -1,5 +1,5 @@
 ---
-title: Olá Mundo!
+title: Olá Mundo
 slug: ola-mundo
 date: 2018-11-02
 description: Primeiro blog post.

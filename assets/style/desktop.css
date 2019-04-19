@@ -1,7 +1,7 @@
 body {
   font-family: Roboto, sans-serif;
   font-weight: lighter;
-  letter-spacing: 1.3px;
+  letter-spacing: 1px;
 }
 
 main {
@@ -41,7 +41,17 @@ nav li a:hover {
 }
 
 a {
+  font-weight: bold;
   text-decoration: none;
+  color:black;
+}
+
+a:visited {
+  color:black;
+}
+
+a:hover {
+  color: #5ecc62;
 }
 
 ul {
@@ -49,11 +59,12 @@ ul {
 }
 
 h3 {
+  font-weight: lighter;
   font-size: 2em;
   color: #5ecc62;
 }
 
 p {
-  font-size: 1.1em;
-  line-height: 1.5em;
+  font-size: 1em;
+  line-height: 2em;
 }
