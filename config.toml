@@ -1,0 +1,15 @@
+baseurl = "https://jairojair.com"
+title = "Jairo Jair"
+
+# Configs #
+
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+canonifyURLs = true
+pygmentsCodefences = true
+PygmentsStyle = "bw"
+
+[params]
+
+author = "Jairo Jair"
+description = "Software engineer who has a strong perception of the business ‘behind’ the code, in the last 10 years I have been working with a lot of amazing things!"
+
