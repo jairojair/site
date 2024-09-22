@@ -3,7 +3,7 @@ title = "Jairo Jair"
 
 # Configs #
 
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
 canonifyURLs = true
 pygmentsCodefences = true
 PygmentsStyle = "bw"
