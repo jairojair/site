@@ -14,7 +14,7 @@ In the episode titled ["The AI-Powered Solopreneur"][2], he talks about his expe
 
 I have a vision of the future where it will become more common for big companies with few people, or in some cases just one person, to make millions of dollars.
 
-Of course, these people already exist today. [Marc Lou][3], [Pieter Levels][4], and [Arvid himself][5] show that this is possible.
+Of course, these people already exist today. [Marc Lou][3], [Pieter Levels][4], and [Arvid][5] himself show that this is possible.
 
 Websites like [Indie Hackers][6] and [Starter Story][7] collect stories of people who changed their lives with their micro-SaaS, products, and newsletters.
 
@@ -35,7 +35,7 @@ See u soon!
 [5]: https://thebootstrappedfounder.com/about-me/
 [6]: https://www.indiehackers.com
 [7]: https://www.starterstory.com
-[8]: https://amzn.to/4efGB85
+[8]: https://zerotosold.com/
 [9]: https://paulgraham.com
 [10]: https://paulgraham.com/foundermode.html
 [11]: https://podscan.fm
