@@ -13,3 +13,5 @@ PygmentsStyle = "bw"
 author = "Jairo Jair"
 description = "Software engineer who has a strong perception of the business ‘behind’ the code, in the last 10 years I have been working with a lot of amazing things!"
 
+[markup.goldmark.renderer]
+unsafe = true
