@@ -20,12 +20,12 @@ Think about this. What's better, working on something for 3 hours once a week, o
 #### When you do something consistently
 
 ```
-It becomes a habit
-You start see a little changes
-You feel motivated to continue
+- It becomes a habit.
+- You start see a little changes.
+- You feel motivated to continue.
 ```
 <br>
-But here's the catch, Life gets in the way. 
+But here's the catch, life gets in the way. 
 We get tired, busy, or just would like a little lazy day, and that's okay. <br>
 <br>
 <h4>Please don't forget</h4>
@@ -34,9 +34,8 @@ Consistency beats intensity.
 It's okay to miss a day, just don't miss two.
 </br>
 
-```
 So, what's that thing you've been wanting to do?
-
+```
 - Start today.
 - Do a little bit.
 - Then do it again tomorrow.
