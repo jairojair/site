@@ -2,6 +2,21 @@
 
 <h3>Hi there!</h3>
 <br />
-<p style="filter: grayscale(100%);">I'm a Brazilian 🇧🇷 developer living in Toronto 🇨🇦</p>
+<p style="filter: grayscale(100%)">
+  I'm a Brazilian 🇧🇷 developer living in Toronto 🇨🇦
+</p>
+
+<br />
+<section class="latest-articles">
+  <h3>Latest Posts</h3>
+
+  <ul>
+    {{ range first 5 .Site.RegularPages }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+</section>
 
 {{ end }}
