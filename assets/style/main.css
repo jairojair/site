@@ -49,7 +49,12 @@ ul li {
 
 .latest-articles a {
   text-decoration: none;
-  margun-bottom: 0.8em;
+  margin-bottom: 0.8em;
+}
+
+.latest-articles li {
+  margin-left: 0.8em;
+  list-style-type: circle;
 }
 
 a {
