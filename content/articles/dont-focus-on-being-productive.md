@@ -1,14 +1,14 @@
 ---
-title: "Don't focus on being productive"
+title: "Don't Focus on Being Productive"
 slug: dont-focus-on-being-productive
 date: 2024-11-03
 description: You're not unproductive - what's missing is better alignment of expectations with yourself and the people around you.
 tags: [productivity, alignment, expectations, communication, goals]
 ---
 
-### Don't focus on being productive
+### Don't Focus on Being Productive
 
-Currently, I'm surrounded by videos, posts, and content about productivity, and most times I come to the conclusion that people are productive. 
+Currently, I'm surrounded by videos, posts, and content about productivity, and most times I come to the conclusion that people are productive.
 
 The problem is that they produce and focus on the "wrong" things, or rather on things different from expectations - what's missing is alignment.
 
@@ -26,7 +26,7 @@ I might try to find shortcuts and arrive on time, but in these cases, it's bette
 
 ```
 Be honest
-if something goes wrong, communicate it. 
+if something goes wrong, communicate it.
 If it goes right, communicate that too.
 ```
 <br>
