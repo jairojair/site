@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<section class="articles">
+  <article>
+    <ul>
+      {{ range .Paginator.Pages}}
+        <li>
+          <a href="{{ .Permalink }}">
+            <h3> # {{ .Title }}</h3>
+            <span>{{ .Date.Format "2006" }}</span>
+          </a>
+        </li>
+        <br>
+      {{end}}
+    </ul>
+  </article>
+</section>
+
+{{ end }}
